@@ -20,6 +20,12 @@ I do software engineering for a living, currently in the cybersecurity domain.
 - **_[CompilaX](https://github.com/deqyra/CompilaX)_** (2021): a compiler suite in C++.
 - **_[CppTools](https://github.com/deqyra/CppTools)_** (2019): C++ tools for my own use.
 
+### Stuff that I want to write (someday):
+- [Attractors](https://www.youtube.com/watch?v=fDek6cYijxI)
+- [Particle game of life](https://www.youtube.com/watch?v=Z_zmZ23grXE)
+- [Non-Euclidean world engine](https://www.youtube.com/watch?v=kEB11PQ9Eo8)
+- [Mandelbrot set sound explorer](https://www.youtube.com/watch?v=GiAj9WW1OfQ)
+
 ### Get in touch!
 - Stack Overflow: **[deqyra](https://stackoverflow.com/users/3288630/deqyra?tab=profile)**
 - Twitter: **[@qreon_](https://twitter.com/qreon_)**
