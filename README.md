@@ -1,6 +1,6 @@
 ### Hey. 👋
 
-I'm François, 24, based in Lyon 🇫🇷.
+I'm François, 26, based in Lyon 🇫🇷.
 I do software engineering for a living, currently in the cybersecurity domain.
 
 ### Tech I work with:
