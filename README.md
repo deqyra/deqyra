@@ -15,9 +15,8 @@ I do software engineering for a living, currently in the cybersecurity domain.
 - [MidiVR](https://github.com/deqyra/MidiVR) (2017): a generic MIDI controller in VR, made with Unity (C#).
 - [Spectrum](https://github.com/deqyra/spectrum-core-py) (2018): spectral image processing for sound in Python.
 - [PicrossEngine](https://github.com/deqyra/PicrossEngine) (2019): CLI picross game in C++.
-- **_[RenderBoi](https://github.com/deqyra/RenderBoi)_** (2019): simple 3D engine in C++. Uses OpenGL and [GLFW3](https://github.com/glfw/glfw).
-- **_[cpuemu](https://github.com/deqyra/cpuemu)_** (2021): simple CPU emulator in C++.
-- **_[CompilaX](https://github.com/deqyra/CompilaX)_** (2021): a compiler suite in C++.
+- [RenderBoi](https://github.com/deqyra/RenderBoi) (2019): simple 3D engine in C++. Uses OpenGL and [GLFW3](https://github.com/glfw/glfw).
+- [cpuemu](https://github.com/deqyra/cpuemu) (2021): simple CPU emulator in C++.
 - **_[CppTools](https://github.com/deqyra/CppTools)_** (2019): C++ tools for my own use.
 
 ### Stuff that I want to write (someday):
