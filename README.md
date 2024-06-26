@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm François, 27, based in Lyon 🇫🇷.
+I'm François, 27, based in Lyon, France.
 I do software engineering for a living, currently in the cybersecurity domain.
 
 ### Tech I work with:
@@ -19,6 +19,4 @@ I do software engineering for a living, currently in the cybersecurity domain.
 - [Spectrum](https://github.com/deqyra/spectrum-core-py) (2018): spectral image processing for sound in Python.
 - [PicrossEngine](https://github.com/deqyra/PicrossEngine) (2019): CLI picross game in C++.
 
-Check out my mixtapes on SoundCloud: [deqyra](https://soundcloud.com/iamdeqyra).
-
-🕉
+Bored? Check out my mixtapes on [SoundCloud](https://soundcloud.com/iamdeqyra)
